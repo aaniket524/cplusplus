@@ -14,7 +14,6 @@ int main() {
 
   char c = 'a';
   // we can store only single characters in char like a b c d e f not like ab cd akdi so on.
-  
   cout << c <<endl;
   int sizeofc = sizeof(c);
   cout<< "Size of  c:" << sizeofc <<endl;
